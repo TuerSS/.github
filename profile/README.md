@@ -30,15 +30,15 @@ Expert scripting in Lua, Python, and more for your custom projects.
 
 Here are some of the technologies we excel in:
 
-![JavaScript](https://svgl-badge.vercel.app/api/badge?text=JavaScript&icon=javascript)
-![Python](https://svgl-badge.vercel.app/api/badge?text=Python&icon=python)
-![Node.js](https://svgl-badge.vercel.app/api/badge?text=Node.js&icon=node-dot-js)
-![MongoDB](https://svgl-badge.vercel.app/api/badge?text=MongoDB&icon=mongodb)
-![React](https://svgl-badge.vercel.app/api/badge?text=React&icon=react)
-![C#](https://svgl-badge.vercel.app/api/badge?text=C%23&icon=csharp)
-![Lua](https://svgl-badge.vercel.app/api/badge?text=Lua&icon=lua)
-![Tailwind CSS](https://svgl-badge.vercel.app/api/badge?text=TailwindCSS&icon=tailwindcss)
-![PostgreSQL](https://svgl-badge.vercel.app/api/badge?text=PostgreSQL&icon=postgresql)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -67,11 +67,6 @@ We ensure every project is delivered with:
 
 ## 📧 Contact
 Reach out to us at **[support@tuerss.com](mailto:support@tuerss.com)** for quotes or inquiries.
-
----
-
-## 📌 Badges
-Check out more badges at [SVGL Badge](https://svgl-badge.vercel.app/).
 
 ---
 
